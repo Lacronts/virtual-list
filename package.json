@@ -1,0 +1,24 @@
+{
+  "name": "async-virtual-list",
+  "version": "1.0.3",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@material-ui/styles": "^4.9.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "author": "Lacront",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/react": "^16.9.19"
+  }
+}
